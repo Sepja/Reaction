@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bfe135b-37d6-48f6-85a4-03a60c28c9fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ReactionArea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReactionArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReactionArea.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -99,7 +99,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599760749562</updated>
-      <workItem from="1599760752261" duration="4796000" />
+      <workItem from="1599760752261" duration="6581000" />
+      <workItem from="1599837009694" duration="3080000" />
+      <workItem from="1599840145196" duration="1380000" />
+      <workItem from="1599841542879" duration="83000" />
+      <workItem from="1599841687365" duration="1003000" />
+      <workItem from="1599906931785" duration="1614000" />
+      <workItem from="1600112616310" duration="2477000" />
     </task>
     <servers />
   </component>
@@ -116,27 +122,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1599762273030">
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1599772112812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599762273030" />
-    <state width="1876" height="236" key="GridCell.Tab.0.bottom" timestamp="1599769451481">
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599772112812" />
+    <state width="1860" height="236" key="GridCell.Tab.0.bottom" timestamp="1600117331257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1876" height="236" key="GridCell.Tab.0.center" timestamp="1599769451481">
+    <state width="1860" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600117331257" />
+    <state width="1860" height="236" key="GridCell.Tab.0.center" timestamp="1600117331257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="236" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1876" height="236" key="GridCell.Tab.0.left" timestamp="1599769451481">
+    <state width="1860" height="236" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600117331257" />
+    <state width="1860" height="236" key="GridCell.Tab.0.left" timestamp="1600117331257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="236" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1876" height="236" key="GridCell.Tab.0.right" timestamp="1599769451481">
+    <state width="1860" height="236" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600117331257" />
+    <state width="1860" height="236" key="GridCell.Tab.0.right" timestamp="1600117331257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="236" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
+    <state width="1860" height="236" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600117331257" />
+    <state x="461" y="150" key="SettingsEditor" timestamp="1599838618452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="150" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599838618452" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ReactionArea.js</url>
+          <line>23</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
