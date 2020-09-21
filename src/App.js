@@ -5,7 +5,7 @@ import {ReactionArea} from "./components/ReactionArea";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <ReactionArea></ReactionArea>
     </div>
   );
