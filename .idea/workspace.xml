@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bfe135b-37d6-48f6-85a4-03a60c28c9fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Accuracy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Difficulty.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/APM.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/APM.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ReactionArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReactionArea.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +62,19 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -90,12 +98,6 @@
       <option name="presentableId" value="Default" />
       <updated>1599760749562</updated>
       <workItem from="1599760752261" duration="4796000" />
-      <workItem from="1600189338941" duration="487000" />
-      <workItem from="1600189844171" duration="2745000" />
-      <workItem from="1600536923072" duration="2289000" />
-      <workItem from="1600593963658" duration="676000" />
-      <workItem from="1600613187120" duration="4833000" />
-      <workItem from="1600618478622" duration="6000" />
     </task>
     <servers />
   </component>
@@ -119,33 +121,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599762273030" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1600545487121">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom" timestamp="1600801478242">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600545487121" />
-    <state width="1876" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1600545487121">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600801478242" />
+    <state width="1876" height="240" key="GridCell.Tab.0.center" timestamp="1600801478242">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600545487121" />
-    <state width="1876" height="236" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1600545487121">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="240" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600801478242" />
+    <state width="1876" height="240" key="GridCell.Tab.0.left" timestamp="1600801478241">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600545487121" />
-    <state width="1876" height="236" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1600545487121">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="240" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600801478241" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right" timestamp="1600801478242">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600545487121" />
-    <state width="1876" height="236" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599769451481" />
-    <state x="399" y="183" key="jetbrains.nodejs.interpreters-dialog" timestamp="1600189663253">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="399" y="183" key="jetbrains.nodejs.interpreters-dialog/0.0.1366.728@0.0.1366.728" timestamp="1600189663253" />
-    <state x="65" y="0" key="new project wizard" timestamp="1600599379132">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600599379132" />
+    <state width="1876" height="240" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600801478242" />
   </component>
 </project>

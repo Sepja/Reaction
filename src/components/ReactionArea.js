@@ -40,9 +40,8 @@ export function  ReactionArea(){
     }
 
 
-
     return (
-        <div className="reactArea"
+        <div className="reactArea" autofocus="autofocus"d
             onKeyPress={e => onKeyPressed(e)}
             tabIndex={0}
             >
